@@ -14,8 +14,8 @@ This is how the chord visualisation looks like:
 
 Visualisation of paired ingredients with a selected cocktail using mouseover:
 
-![mouseover](https://github.com/crystallim009/cocktails-chord/blob/master/chord-diagram/cocktails_chord_screenshot2.png)
+![mouseover](https://github.com/crystallim009/cocktails-chord/blob/master/chord-diagram/cocktail_screenshot2.png)
 
 Visualisation of number of instances two ingredients are paired: 
 
-![pairing](https://github.com/crystallim009/cocktails-chord/blob/master/chord-diagram/cocktails_chord_screenshot3.png)
+![pairing](https://github.com/crystallim009/cocktails-chord/blob/master/chord-diagram/cocktail_screenshot3.png)
