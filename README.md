@@ -8,4 +8,4 @@ Goals:
 
 Source of data: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv
 
-![chord](https://github.com/crystallim009/cocktails-chord/blob/[branch]/image.jpg?raw=true)
+![chord](https://github.com/crystallim009/cocktails-chord/blob/master/chord-diagram/cocktails_chord_screenshot.png)
