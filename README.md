@@ -2,7 +2,7 @@ Chord visualisation of cocktails
 
 Goals: 
 
-1) Use chrome design to visualise the pairing of ingredients with one another 
+1) Use chrome design to visualise the interactive pairing of ingredients with one another (screenshot of chrome visualisation as attached above)
 2) What are the most common ingredients in cocktails?
 3) What is the average number of ingredients in each cocktail?
 
