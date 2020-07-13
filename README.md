@@ -7,3 +7,5 @@ Goals:
 3) What is the average number of ingredients in each cocktail?
 
 Source of data: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv
+
+![chord](https://github.com/crystallim009/cocktails-chord/blob/[branch]/image.jpg?raw=true)
