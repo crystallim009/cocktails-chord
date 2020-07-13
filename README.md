@@ -8,4 +8,14 @@ Goals:
 
 Source of data: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv
 
+This is how the chord visualisation looks like:
+
 ![chord](https://github.com/crystallim009/cocktails-chord/blob/master/chord-diagram/cocktails_chord_screenshot.png)
+
+Visualisation of paired ingredients with a selected cocktail using mouseover:
+
+![mouseover](https://github.com/crystallim009/cocktails-chord/blob/master/chord-diagram/cocktails_chord_screenshot2.png)
+
+Visualisation of number of instances two ingredients are paired: 
+
+![pairing](https://github.com/crystallim009/cocktails-chord/blob/master/chord-diagram/cocktails_chord_screenshot3.png)
