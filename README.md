@@ -1,4 +1,4 @@
-Chord visualisation of cocktails 
+Chord visualisation of cocktail ingredients
 
 Goals: 
 
